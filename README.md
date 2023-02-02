@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python , Flutter**
 
-- 📫 How to reach me **ayushcoc1307@gmail.com**
+- 📫 How to reach me **ayushsoni2323@gmail.com**
 
 - ⚡ Fun fact **My favorite song to listen to when I want to feel happy is "HAPPY TOGETHER".**
 
