@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AyushVerma-1307/AyushVerma-1307/blob/main/Banner.gif)
+![MasterHead](https://github.com/AyushVerma-1307/AyushVerma-1307/blob/main/Banner%20new.gif)
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A bit about Myself, I am Ayush Verma pursuing my Computer Science Degree from IMS Engineering College. As of now, I am focused on web development, App development and Machine Learning but still, wish to explore many fields.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
