@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me ayushsoni2323@gmail.com<br><br>⚡ Fun fact The Deep Web is Deeper Than You Think<br><br>🌐 See my portfolio at [AyushVerma_Portfolio](https://ayush1307-portfolio.vercel.app/)
+🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me ayushsoni2323@gmail.com<br><br>⚡ Fun fact The Deep Web is Deeper Than You Think<br><br>🌐 See my portfolio at [AyushVerma.me](https://ayush1307-portfolio.vercel.app/)
 
 
 
