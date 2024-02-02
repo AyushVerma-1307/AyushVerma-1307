@@ -3,7 +3,7 @@
 <h3 align="center">I am pursuing my Computer Science Degree from IMS Engineering College. As of now, I am focused on Full Stack and Machine Learning but still, wish to explore many fields.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/bef9b603e2aa42f3825bc8d279ae1db90ad4ef16c7c6cb24361e0e7e5f817f30/68747470733a2f2f737461746963312e733132332d63646e2d7374617469632d612e636f6d2f75706c6f6164732f353535353634312f6e6f726d616c5f363134363530616133633261312e676966">
 
-# 💫 About Me:
+# 💫 About Me:-
 
 🔭 I’m currently working on React.js, Node.js, MongoDB, Express <br><br>🌱 I’m currently learning Full Stack Development<br><br>📫 How to reach me ayushsoni2323@gmail.com<br><br>⚡ Fun fact The Deep Web is Deeper Than You Think<br><br>🌐 See my portfolio at [ayushverma.me](https://ayush1307-portfolio.vercel.app/)
 
