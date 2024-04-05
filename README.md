@@ -4,7 +4,12 @@
 
 # 💫 About Me:-
 
-🔭 I’m currently working on Twitter-Youtube Backend Project <br><br>🌱 I’m currently learning Next.js<br><br>📫 How to reach me ayushsoni2323@gmail.com<br><br>⚡Fun fact: Did you know that oxygen is a poisonous gas? It just takes about 80 years to kill you!<br><br>🖥️  See my portfolio at [My Portfolio](https://ayush1307-portfolio.vercel.app/)
+* 🌍  I'm based in India
+* 🔭 I’m currently working on Twitter-Youtube Backend Project
+* 🖥️  See my portfolio at [My Portfolio](https://ayush1307-portfolio.vercel.app/)
+* ✉️  You can reach me at [ayushsoni2323@gmail.com](mailto:ayushsoni2323@gmail.com)
+* 🧠  I'm currently learning Next.js 
+* ⚡ Fun fact: Did you know that oxygen is a poisonous gas? It just takes about 80 years to kill you!
 
 
 
