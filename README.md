@@ -4,7 +4,7 @@
 
 # 💫 About Me:-
 
-* 🌍  I'm based in Indi
+* 🌍  I'm based in India
 * 🔭 I’m currently working on Twitter-Youtube Backend Project
 * 🖥️  See my portfolio at [My Portfolio](https://ayush1307-portfolio.vercel.app/)
 * ✉️  You can reach me at [ayushsoni2323@gmail.com](mailto:ayushsoni2323@gmail.com)
